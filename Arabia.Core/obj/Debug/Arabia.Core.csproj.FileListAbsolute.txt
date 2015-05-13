@@ -1,0 +1,14 @@
+D:\Work\korabia\KorabiaWebApp\Arabia.Core\bin\Debug\Arabia.Core.dll
+D:\Work\korabia\KorabiaWebApp\Arabia.Core\bin\Debug\Arabia.Core.pdb
+D:\Work\korabia\KorabiaWebApp\Arabia.Core\obj\Debug\Arabia.Core.csprojResolveAssemblyReference.cache
+D:\Work\korabia\KorabiaWebApp\Arabia.Core\obj\Debug\Arabia.Core.dll
+D:\Work\korabia\KorabiaWebApp\Arabia.Core\obj\Debug\Arabia.Core.pdb
+D:\Work\korabia\KorabiaApps\Development\Arabia.Core\bin\Debug\Arabia.Core.dll
+D:\Work\korabia\KorabiaApps\Development\Arabia.Core\bin\Debug\Arabia.Core.pdb
+D:\Work\korabia\KorabiaApps\Development\Arabia.Core\bin\Debug\MongoDB.Bson.dll
+D:\Work\korabia\KorabiaApps\Development\Arabia.Core\bin\Debug\MongoDB.Bson.xml
+D:\Work\korabia\KorabiaApps\Development\Arabia.Core\obj\Debug\Arabia.Core.dll
+D:\Work\korabia\KorabiaApps\Development\Arabia.Core\obj\Debug\Arabia.Core.pdb
+D:\Work\korabia\KorabiaApps\Development\Arabia.Core\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Work\korabia\KorabiaApps\Development\Arabia.Core\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Work\korabia\KorabiaApps\Development\Arabia.Core\obj\Debug\Arabia.Core.csprojResolveAssemblyReference.cache
